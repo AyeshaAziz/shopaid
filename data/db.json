@@ -1,0 +1,65 @@
+{
+    "products": [
+        {
+            "id": 10001,
+            "name": "Ergonomic Office Chair",
+            "price": 199,
+            "in_stock": true
+        },
+        {
+            "id": 10002,
+            "name": "Adjustable Standing Desk",
+            "price": 299,
+            "in_stock": false
+        },
+        {
+            "id": 10003,
+            "name": "Wireless Keyboard and Mouse Combo",
+            "price": 49,
+            "in_stock": true
+        },
+        {
+            "id": 10004,
+            "name": "Dual Monitor Arm Mount",
+            "price": 89,
+            "in_stock": true
+        },
+        {
+            "id": 10005,
+            "name": "Desk Organizer Set",
+            "price": 25,
+            "in_stock": false
+        },
+        {
+            "id": 10006,
+            "name": "LED Desk Lamp",
+            "price": 35,
+            "in_stock": true
+        },
+        {
+            "id": 10007,
+            "name": "Noise Cancelling Headphones",
+            "price": 150,
+            "in_stock": true
+        },
+        {
+            "id": 10008,
+            "name": "Under Desk Footrest",
+            "price": 20,
+            "in_stock": false
+        },
+        {
+            "id": 10009,
+            "name": "USB-C Docking Station",
+            "price": 120,
+            "in_stock": true
+        },
+        {
+            "id": 10010,
+            "name": "Desk Drawer Organizer Tray",
+            "price": 15,
+            "in_stock": true
+        }
+    ]
+    
+}
